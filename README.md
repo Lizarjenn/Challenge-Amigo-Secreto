@@ -50,7 +50,7 @@ Con este mini-juego podrás:
 
 ## 📸 Vista previa
 
-![Captura del juego](./screenshot.png)  
+![Captura del juego](./screenshot.png.jpg)
 
 ---
 
