@@ -44,8 +44,6 @@ Con este mini-juego podrás:
 
 👉 [Jugar en GitHub Pages](https://lizarjenn.github.io/Challenge-Amigo-Secreto/)  
 
-*(Si aún no carga, activa **GitHub Pages** desde: Settings > Pages)*  
-
 ---
 
 ## 📸 Vista previa
